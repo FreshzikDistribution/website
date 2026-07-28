@@ -15,7 +15,7 @@ html{
 
 body{
     font-family:Arial,Helvetica,sans-serif;
-    background:#0d0d0d;
+    background:#050505;
     color:#fff;
     line-height:1.7;
 }
@@ -25,7 +25,7 @@ header{
     position:sticky;
     top:0;
     z-index:1000;
-    border-bottom:2px solid #00c853;
+    border-bottom:2px solid #D4AF37
 }
 
 nav{
@@ -40,7 +40,7 @@ nav{
 .logo{
     font-size:28px;
     font-weight:bold;
-    color:#00e676;
+    color:#F2C94C
 }
 
 nav ul{
@@ -115,7 +115,7 @@ h2{
 }
 
 .card{
-    background:#181818;
+    background:#121212;
     border:1px solid #222;
     border-radius:18px;
     padding:30px;
@@ -266,5 +266,16 @@ h2{
 .cards{
     grid-template-columns:1fr;
 }
-
+.card{
+    margin-bottom:35px;
 }
+
+section{
+    padding:100px 25px;
+}
+
+.card ul li{
+    margin-bottom:15px;
+}
+}
+
