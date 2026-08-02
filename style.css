@@ -57,7 +57,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color:#00e676;
+    color:#D4AF37
 }
 
 .hero{
@@ -81,7 +81,7 @@ nav ul li a:hover{
 .btn{
     display:inline-block;
     margin-top:35px;
-    background:#00c853;
+    background:#D4AF37
     color:#fff;
     padding:15px 40px;
     border-radius:40px;
@@ -91,7 +91,7 @@ nav ul li a:hover{
 }
 
 .btn:hover{
-    background:#00e676;
+    background:#D4AF37
     transform:scale(1.05);
 }
 
@@ -105,7 +105,7 @@ h2{
     text-align:center;
     font-size:40px;
     margin-bottom:50px;
-    color:#00e676;
+    color:#D4AF37
 }
 
 .cards{
@@ -124,11 +124,11 @@ h2{
 
 .card:hover{
     transform:translateY(-8px);
-    border-color:#00e676;
+    border-color:#D4AF37
 }
 
 .card h3{
-    color:#00e676;
+    color:#D4AF37
     margin-bottom:20px;
 }
 
@@ -164,7 +164,7 @@ textarea{
 input:focus,
 select:focus,
 textarea:focus{
-    outline:2px solid #00e676;
+    outline:2px solid #D4AF37
 }
 
 button{
@@ -172,7 +172,7 @@ button{
     padding:16px;
     border:none;
     border-radius:40px;
-    background:#00c853;
+    background:#D4AF37
     color:#fff;
     font-size:18px;
     font-weight:bold;
@@ -181,7 +181,7 @@ button{
 }
 
 button:hover{
-    background:#00e676;
+    background:#D4AF37
 }
 
 /* =========================
@@ -206,7 +206,7 @@ footer{
     text-align:center;
     padding:30px;
     color:#aaa;
-    border-top:2px solid #00c853;
+    border-top:2px solid #D4AF37
 }
 
 /* =========================
